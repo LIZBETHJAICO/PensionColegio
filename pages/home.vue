@@ -1,7 +1,7 @@
 <template>
     <div>
        <p>BIENVENIDOS</p>
-       <p>avance</p>
+      
         <p>{{users.email}}</p>
     </div>
 </template>
